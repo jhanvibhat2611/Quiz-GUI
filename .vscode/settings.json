@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "quiz-application-main\\OnlineQuiz\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\LENOVO\\Downloads\\sqlite-jdbc-3.49.1.0.jar"
+    ]
+}

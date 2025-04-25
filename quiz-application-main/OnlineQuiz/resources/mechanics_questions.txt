@@ -1,0 +1,15 @@
+What is the SI unit of force?;Joule;Newton;Watt;Pascal;1
+Which law states F=ma?;Newton's 1st;Newton's 2nd;Newton's 3rd;Law of inertia;1
+What is the unit of power?;Joule;Newton;Watt;Pascal;2
+Which force opposes motion?;Gravity;Tension;Friction;Normal;2
+What is the acceleration due to gravity?;9.8 m/s²;8.9 m/s²;10 m/s²;9.2 m/s²;0
+What is momentum?;mv;m/a;m×g;m/v;0
+Which quantity is scalar?;Velocity;Acceleration;Displacement;Speed;3
+What is inertia?;Resistance to force;Resistance to motion;Energy transfer;Speed change;1
+Which force keeps planets in orbit?;Tension;Magnetic;Gravity;Normal;2
+What is work done when force is zero?;Positive;Negative;Zero;Infinite;2
+What is the formula for kinetic energy?;mgh;1/2mv²;mv;F×d;1
+What is the unit of pressure?;Pascal;Newton;Joule;Watt;0
+Which law explains action-reaction?;Newton’s 1st;Newton’s 2nd;Newton’s 3rd;Hooke’s Law;2
+What is the work-energy theorem?;W=ΔK;W=mv;W=mg;W=1/2mv²;0
+What does torque depend on?;Mass;Force and distance;Speed;Velocity;1

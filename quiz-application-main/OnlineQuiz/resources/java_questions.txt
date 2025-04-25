@@ -1,0 +1,16 @@
+Which keyword defines a class?;struct;class;define;Class;1
+What is used to store decimal numbers?;int;float;char;boolean;1
+Which is not a primitive type?;int;String;double;boolean;1
+How do you handle exceptions?;try-catch;if-else;for-while;switch-case;0
+Which keyword is for inheritance?;extend;inherits;super;extends;3
+Default value of boolean?;true;false;0;null;1
+Which method runs first in Java?;start();init();main();run();2
+How to create an object?;Class obj = new Class();;new Class obj();;create obj();;Class.create(obj);;0
+Which package has Scanner?;java.io;java.net;java.util;java.lang;2
+What does JVM stand for?;Java Virtual Machine;Java Visual Manager;Java Verified Mode;Just Virtual Memory;0
+Which keyword stops method overriding?;private;final;static;constant;1
+Which loop runs at least once?;for;while;do-while;switch;2
+How do you compare strings?;==;equals();compare();match();1
+Which keyword is used for constants?;constant;final;static;define;1
+What does "this" refer to?;Current object;Parent class;Child class;Static method;0
+

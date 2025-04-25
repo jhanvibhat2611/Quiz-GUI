@@ -1,0 +1,15 @@
+Find the determinant of [[1, 2], [3, 4]]?;2;-2;4;0;1
+Which of the following is a singular matrix?;Matrix with determinant 0;Identity matrix;Diagonal matrix;Symmetric matrix;0
+What is the rank of the matrix [[1, 2], [2, 4]]?;2;1;0;3;1
+If A and B are invertible matrices, which is true?;A + B is invertible;AB is invertible;AB = BA always;A - B is invertible;1
+What is the eigenvalue of the matrix [[2, 0], [0, 3]]?;2 and 3;1 and 4;3 and 3;0 and 2;0
+Which property defines orthogonal matrices?;Rows and columns are orthogonal;Determinant is always 0;All entries are integers;Matrix is always diagonal;0
+What is the trace of the matrix [[1, 2], [3, 4]]?;2;10;5;4;2
+Which of these is not a vector space?;The set of all polynomials;The set of all 2x2 matrices;The set of all odd functions;The set of all invertible matrices;3
+What is the rank of the zero matrix of size 3x3?;3;2;1;0;3
+Which of the following represents a basis of R²?;{[1, 0], [0, 1]};{[1, 2], [2, 4]};{[1, 1], [1, 1]};{[0, 0], [0, 0]};0
+What is the derivative of sin(x)?;cos(x);-cos(x);sin(x);-sin(x);tan(x);0
+What is the derivative of x²?;2x;x;2;x²;0
+What is the derivative of e^x?;e^x;ln(x);x^e;x²;0
+What is the integral of cos(x) dx?;sin(x);-sin(x);cos(x);-cos(x);0
+What is the integral of 1/x dx?;ln(x);1/x;x²;x;0

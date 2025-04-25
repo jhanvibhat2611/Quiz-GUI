@@ -1,0 +1,15 @@
+Which keyword defines a function?;define;def;func;method;2
+Which data type is immutable?;List;Dictionary;Tuple;Set;3
+Output of 3 * 2 ** 3?;18;24;27;9;1
+Which takes user input?;input();scan();get();read();1
+Open a file for reading?;w;r;a;wb;2
+Loop that runs at least once?;for;while;do-while;None;3
+Default return value of a function?;0;None;'';False;2
+Valid variable name?;2var;_var;var@name;None;2
+Output of type([])?;list;tuple;dict;set;1
+Module for regex?;re;regex;pyregex;string;1
+Create an empty dict?;{};[];dict();both 1 and 3;4
+Remove last list element?;delete();remove();pop();discard();3
+Handle exceptions?;catch;except;try;handle;2
+Compare object identity?;==;!=;is;equals;3
+Output of bool([])?;True;False;None;Error;2

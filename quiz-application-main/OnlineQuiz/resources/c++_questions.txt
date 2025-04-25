@@ -1,0 +1,15 @@
+Which keyword is used to define a class in C++?;struct;class;object;define;1
+What is the default return type of the main() function?;int;void;char;float;0
+Which symbol is used for single-line comments in C++?;//;/*;<>;##;0
+Which loop guarantees at least one execution?;for;while;do-while;switch;2
+Which header file is required for I/O?;stdio.h;conio.h;iostream;fstream;2
+Which operator is used to allocates memory?;new;malloc;alloc;create;0
+What is the file extension of a C++ source file?;.cpp;.c;.java;.hpp;0
+Which keyword is used to create objects?;class;struct;new;public;2
+Which function starts a C++ program?;start();main();init();run();1
+What is the purpose of the 'cin' object in C++?;Output;Input;Memory;Loop;1
+Which data type is used to store a single character?;char;string;int;bool;0
+Which feature of OOP allows function overloading?;Encapsulation;Abstraction;Polymorphism;Inheritance;2
+What does the 'break' statement do in a loop?;Skips;Stops execution;Repeats;Ends program;1
+Which keyword is used for inheritance in C++?;derive;inherit;extends;public;3
+Which operator gets a pointer's value?;.;->;*;&;2
